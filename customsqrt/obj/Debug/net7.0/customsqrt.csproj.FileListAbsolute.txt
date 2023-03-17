@@ -1,0 +1,15 @@
+C:\Users\VO\Desktop\customsqrt\customsqrt\obj\Debug\net7.0\customsqrt.csproj.AssemblyReference.cache
+C:\Users\VO\Desktop\customsqrt\customsqrt\obj\Debug\net7.0\customsqrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VO\Desktop\customsqrt\customsqrt\obj\Debug\net7.0\customsqrt.AssemblyInfoInputs.cache
+C:\Users\VO\Desktop\customsqrt\customsqrt\obj\Debug\net7.0\customsqrt.AssemblyInfo.cs
+C:\Users\VO\Desktop\customsqrt\customsqrt\obj\Debug\net7.0\customsqrt.csproj.CoreCompileInputs.cache
+C:\Users\VO\Desktop\customsqrt\customsqrt\bin\Debug\net7.0\customsqrt.exe
+C:\Users\VO\Desktop\customsqrt\customsqrt\bin\Debug\net7.0\customsqrt.deps.json
+C:\Users\VO\Desktop\customsqrt\customsqrt\bin\Debug\net7.0\customsqrt.runtimeconfig.json
+C:\Users\VO\Desktop\customsqrt\customsqrt\bin\Debug\net7.0\customsqrt.dll
+C:\Users\VO\Desktop\customsqrt\customsqrt\bin\Debug\net7.0\customsqrt.pdb
+C:\Users\VO\Desktop\customsqrt\customsqrt\obj\Debug\net7.0\customsqrt.dll
+C:\Users\VO\Desktop\customsqrt\customsqrt\obj\Debug\net7.0\refint\customsqrt.dll
+C:\Users\VO\Desktop\customsqrt\customsqrt\obj\Debug\net7.0\customsqrt.pdb
+C:\Users\VO\Desktop\customsqrt\customsqrt\obj\Debug\net7.0\customsqrt.genruntimeconfig.cache
+C:\Users\VO\Desktop\customsqrt\customsqrt\obj\Debug\net7.0\ref\customsqrt.dll
